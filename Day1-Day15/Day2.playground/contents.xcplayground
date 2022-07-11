@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Sets'/>
+        <page name='Array'/>
+        <page name='Tuples'/>
+        <page name='Array-Sets-Tuples'/>
+        <page name='Dictionaries'/>
+        <page name='Dictionary-default-value'/>
+        <page name='CreatingEmptiCollection'/>
+        <page name='Enumerations'/>
+        <page name='EnumAssociatedValue'/>
+        <page name='EnumRawValues'/>
+    </pages>
+</playground>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Accepting Parameter in a Closure'/>
+        <page name='Creating Basic Closure'/>
+        <page name='Returning Values from a Closure'/>
+        <page name='Closure as Parameter'/>
+        <page name='Trailing Clousure'/>
+    </pages>
+</playground>
